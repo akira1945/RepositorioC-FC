@@ -1,0 +1,14 @@
+c:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\projeto010\ConsoleAppClasses\obj\Debug\net8.0\ConsoleAppClasses.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\projeto010\ConsoleAppClasses\obj\Debug\net8.0\ConsoleAppClasses.AssemblyInfoInputs.cache
+c:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\projeto010\ConsoleAppClasses\obj\Debug\net8.0\ConsoleAppClasses.AssemblyInfo.cs
+c:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\projeto010\ConsoleAppClasses\obj\Debug\net8.0\ConsoleAppClasses.csproj.CoreCompileInputs.cache
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\projeto010\ConsoleAppClasses\bin\Debug\net8.0\ConsoleAppClasses.exe
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\projeto010\ConsoleAppClasses\bin\Debug\net8.0\ConsoleAppClasses.deps.json
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\projeto010\ConsoleAppClasses\bin\Debug\net8.0\ConsoleAppClasses.runtimeconfig.json
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\projeto010\ConsoleAppClasses\bin\Debug\net8.0\ConsoleAppClasses.dll
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\projeto010\ConsoleAppClasses\bin\Debug\net8.0\ConsoleAppClasses.pdb
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\projeto010\ConsoleAppClasses\obj\Debug\net8.0\ConsoleAppClasses.dll
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\projeto010\ConsoleAppClasses\obj\Debug\net8.0\refint\ConsoleAppClasses.dll
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\projeto010\ConsoleAppClasses\obj\Debug\net8.0\ConsoleAppClasses.pdb
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\projeto010\ConsoleAppClasses\obj\Debug\net8.0\ConsoleAppClasses.genruntimeconfig.cache
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\projeto010\ConsoleAppClasses\obj\Debug\net8.0\ref\ConsoleAppClasses.dll

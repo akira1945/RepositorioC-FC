@@ -1,0 +1,15 @@
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO002\ScreenSound\ProjetoMusical\bin\Debug\net8.0\ProjetoMusical.exe
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO002\ScreenSound\ProjetoMusical\bin\Debug\net8.0\ProjetoMusical.deps.json
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO002\ScreenSound\ProjetoMusical\bin\Debug\net8.0\ProjetoMusical.runtimeconfig.json
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO002\ScreenSound\ProjetoMusical\bin\Debug\net8.0\ProjetoMusical.dll
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO002\ScreenSound\ProjetoMusical\bin\Debug\net8.0\ProjetoMusical.pdb
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.AssemblyInfoInputs.cache
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.AssemblyInfo.cs
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.csproj.CoreCompileInputs.cache
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.dll
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\refint\ProjetoMusical.dll
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.pdb
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.genruntimeconfig.cache
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\ref\ProjetoMusical.dll
+c:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.sourcelink.json

@@ -1,0 +1,14 @@
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ScreenSound\ConsoleApp.ScreenSound\bin\Debug\net8.0\ConsoleApp.ScreenSound.exe
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ScreenSound\ConsoleApp.ScreenSound\bin\Debug\net8.0\ConsoleApp.ScreenSound.deps.json
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ScreenSound\ConsoleApp.ScreenSound\bin\Debug\net8.0\ConsoleApp.ScreenSound.runtimeconfig.json
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ScreenSound\ConsoleApp.ScreenSound\bin\Debug\net8.0\ConsoleApp.ScreenSound.dll
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ScreenSound\ConsoleApp.ScreenSound\bin\Debug\net8.0\ConsoleApp.ScreenSound.pdb
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ScreenSound\ConsoleApp.ScreenSound\obj\Debug\net8.0\ConsoleApp.ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ScreenSound\ConsoleApp.ScreenSound\obj\Debug\net8.0\ConsoleApp.ScreenSound.AssemblyInfoInputs.cache
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ScreenSound\ConsoleApp.ScreenSound\obj\Debug\net8.0\ConsoleApp.ScreenSound.AssemblyInfo.cs
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ScreenSound\ConsoleApp.ScreenSound\obj\Debug\net8.0\ConsoleApp.ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ScreenSound\ConsoleApp.ScreenSound\obj\Debug\net8.0\ConsoleApp.ScreenSound.dll
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ScreenSound\ConsoleApp.ScreenSound\obj\Debug\net8.0\refint\ConsoleApp.ScreenSound.dll
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ScreenSound\ConsoleApp.ScreenSound\obj\Debug\net8.0\ConsoleApp.ScreenSound.pdb
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ScreenSound\ConsoleApp.ScreenSound\obj\Debug\net8.0\ConsoleApp.ScreenSound.genruntimeconfig.cache
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ScreenSound\ConsoleApp.ScreenSound\obj\Debug\net8.0\ref\ConsoleApp.ScreenSound.dll

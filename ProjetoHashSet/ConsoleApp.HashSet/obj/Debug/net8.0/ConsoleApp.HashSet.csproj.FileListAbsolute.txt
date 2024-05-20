@@ -1,0 +1,14 @@
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ProjetoHashSet\ConsoleApp.HashSet\bin\Debug\net8.0\ConsoleApp.HashSet.exe
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ProjetoHashSet\ConsoleApp.HashSet\bin\Debug\net8.0\ConsoleApp.HashSet.deps.json
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ProjetoHashSet\ConsoleApp.HashSet\bin\Debug\net8.0\ConsoleApp.HashSet.runtimeconfig.json
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ProjetoHashSet\ConsoleApp.HashSet\bin\Debug\net8.0\ConsoleApp.HashSet.dll
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ProjetoHashSet\ConsoleApp.HashSet\bin\Debug\net8.0\ConsoleApp.HashSet.pdb
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ProjetoHashSet\ConsoleApp.HashSet\obj\Debug\net8.0\ConsoleApp.HashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ProjetoHashSet\ConsoleApp.HashSet\obj\Debug\net8.0\ConsoleApp.HashSet.AssemblyInfoInputs.cache
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ProjetoHashSet\ConsoleApp.HashSet\obj\Debug\net8.0\ConsoleApp.HashSet.AssemblyInfo.cs
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ProjetoHashSet\ConsoleApp.HashSet\obj\Debug\net8.0\ConsoleApp.HashSet.csproj.CoreCompileInputs.cache
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ProjetoHashSet\ConsoleApp.HashSet\obj\Debug\net8.0\ConsoleApp.HashSet.dll
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ProjetoHashSet\ConsoleApp.HashSet\obj\Debug\net8.0\refint\ConsoleApp.HashSet.dll
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ProjetoHashSet\ConsoleApp.HashSet\obj\Debug\net8.0\ConsoleApp.HashSet.pdb
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ProjetoHashSet\ConsoleApp.HashSet\obj\Debug\net8.0\ConsoleApp.HashSet.genruntimeconfig.cache
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\ProjetoHashSet\ConsoleApp.HashSet\obj\Debug\net8.0\ref\ConsoleApp.HashSet.dll
