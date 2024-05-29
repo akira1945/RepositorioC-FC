@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luiz.alberto\\Desktop\\Curso Net C#\\Projetos\\RepositorioC-FC\\Projeto012\\ConsoleAppPolimorfismo\\ConsoleAppPolimorfismo.csproj": {}
+    "c:\\Users\\luiz.alberto\\Desktop\\Curso Net C#\\Projetos\\RepositorioC-FC\\Projeto012\\ConsoleAppPolimorfismo\\ConsoleAppPolimorfismo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luiz.alberto\\Desktop\\Curso Net C#\\Projetos\\RepositorioC-FC\\Projeto012\\ConsoleAppPolimorfismo\\ConsoleAppPolimorfismo.csproj": {
+    "c:\\Users\\luiz.alberto\\Desktop\\Curso Net C#\\Projetos\\RepositorioC-FC\\Projeto012\\ConsoleAppPolimorfismo\\ConsoleAppPolimorfismo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luiz.alberto\\Desktop\\Curso Net C#\\Projetos\\RepositorioC-FC\\Projeto012\\ConsoleAppPolimorfismo\\ConsoleAppPolimorfismo.csproj",
+        "projectUniqueName": "c:\\Users\\luiz.alberto\\Desktop\\Curso Net C#\\Projetos\\RepositorioC-FC\\Projeto012\\ConsoleAppPolimorfismo\\ConsoleAppPolimorfismo.csproj",
         "projectName": "ConsoleAppPolimorfismo",
-        "projectPath": "C:\\Users\\luiz.alberto\\Desktop\\Curso Net C#\\Projetos\\RepositorioC-FC\\Projeto012\\ConsoleAppPolimorfismo\\ConsoleAppPolimorfismo.csproj",
+        "projectPath": "c:\\Users\\luiz.alberto\\Desktop\\Curso Net C#\\Projetos\\RepositorioC-FC\\Projeto012\\ConsoleAppPolimorfismo\\ConsoleAppPolimorfismo.csproj",
         "packagesPath": "C:\\Users\\luiz.alberto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luiz.alberto\\Desktop\\Curso Net C#\\Projetos\\RepositorioC-FC\\Projeto012\\ConsoleAppPolimorfismo\\obj\\",
+        "outputPath": "c:\\Users\\luiz.alberto\\Desktop\\Curso Net C#\\Projetos\\RepositorioC-FC\\Projeto012\\ConsoleAppPolimorfismo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luiz.alberto\\AppData\\Roaming\\NuGet\\NuGet.Config"
