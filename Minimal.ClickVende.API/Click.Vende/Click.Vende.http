@@ -1,0 +1,6 @@
+@Click.Vende_HostAddress = http://localhost:5034
+
+GET {{Click.Vende_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
